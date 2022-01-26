@@ -1,2 +1,6 @@
 tasks:
   - init: pip install -r spaceflights/src/requirements.txt
+
+github:
+  prebuilds:
+    master: false
